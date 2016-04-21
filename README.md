@@ -4,6 +4,8 @@
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
+This is an companion article for: docs.snap-ci.com/the-ci-environment/languages/docker/
+
 
 
 
